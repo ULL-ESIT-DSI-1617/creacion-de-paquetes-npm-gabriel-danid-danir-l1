@@ -5,7 +5,7 @@
 * [Repositorio Square](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-gabriel-danid-danir-l1-square)
 * [Repositorio Rectangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-gabriel-danid-danir-l1-rectangle)
 
-# Organización NPM:
+## Organización NPM:
 
 * [Modulo Shape](https://www.npmjs.com/package/@ull-gabriel-danid-danir-l1/ull-shape)
 * [Modulo Triangle](https://www.npmjs.com/package/@ull-gabriel-danid-danir-l1/ull-shape-triangle)
@@ -14,7 +14,7 @@
 
 
 
-# Integrantes
+## Integrantes
 
 * [Daniel Díaz García](https://alu0100882186.github.io)
 
@@ -24,10 +24,10 @@
 
 
 
-# Campus de la asignatura
+## Campus de la asignatura
 
 * [Enlace al campus virtual](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 
-# Requisitos de la Práctica
+## Requisitos de la Práctica
 
 * [Enlace a la descripción de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicamodulestrategypattern.html)
